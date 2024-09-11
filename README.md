@@ -16,7 +16,7 @@ The project consists of an AutoIt script that maps network drives. It can be use
 
 <p align="center">
 One or more drives did not map correctly: <br/>
-<img src="https://i.imgur.com/2LRDdWw.png" height="80%" width="80%" alt="Completed Rebuild"/>
+<img src="https://i.imgur.com/ZELXzEA.png" height="80%" width="80%" alt="Completed Rebuild"/>
 <br />
 <br />
 </p>
