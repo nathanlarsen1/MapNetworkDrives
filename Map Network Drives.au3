@@ -13,10 +13,10 @@ AutoItSetOption("MustDeclareVars", 1)
 
 ; Array that contains drive letters and network share names. The array uses the following format: (drive letter with colon, share name).
 ; All values need to be separated by commas.
-Global $DriveArray = StringSplit("S:,Shared,U:,Nathan", ",")
+Global $DriveArray = StringSplit("S:,Shared,U:,User", ",")
 
 ; Name or IP address of file server. This can be one of the following: fully qualified domain name, hostname or IP address.
-Global $ServerName = "family-server.natenet.local"
+Global $ServerName = "server.domain.com"
 
 ;********************************************************
 ; Check if network is available
