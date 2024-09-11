@@ -15,7 +15,8 @@ The project consists of an AutoIt script that maps network drives. It can be use
 <h2>Program notifications:</h2>
 
 <p align="center">
-This script runs silently in the background.<br/>
+One or more network drives did not map correctly: <br/>
+ <img>src="https://i.imgur.com/ZELXzEA.png"</img> 
 <br />
 <br />
 </p>
