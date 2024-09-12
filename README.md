@@ -2,7 +2,7 @@
 
 
 <h2>Description</h2>
-The project consists of an AutoIt script that maps network drives. It can be used with Windows Task Scheduler to map the drives with alternate credentials and set to run at logon. The two variables that need to be changed to fit your environment are $DriveArray and $ServerName. The $DriveArray variable contains drive letters and network share names, using the following format: (drive letter with colon, share name). All values need to be separated by commas. The $ServerName variable is the fully qualified domain name, hostname, or IP address of the server you are using. <br/>
+This project consists of an AutoIt script that maps network drives. It can be used with Windows Task Scheduler to map the drives with alternate credentials and set to run at logon. The two variables that need to be changed to fit your environment are $DriveArray and $ServerName. The $DriveArray variable contains drive letters and network share names, using the following format: (drive letter with colon, share name). All values need to be separated by commas. The $ServerName variable is the fully qualified domain name, hostname, or IP address of the server you are using. <br/>
 
 <h2>Languages and Applications</h2>
 
